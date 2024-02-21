@@ -1,0 +1,39 @@
+.footer-container {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  background-color: #414141;
+  padding: 20px;
+}
+
+.column {
+  flex: 1;
+  margin: 0 10px;
+}
+
+.logo {
+  width: 100px;  /* Ajusta el tamaño según sea necesario */
+  height: auto;
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+ul li {
+  margin-bottom: 5px;
+}
+
+.social-media {
+  display: flex;
+}
+
+.social-media a {
+  margin-right: 10px;
+}
+
+.social-media img {
+  width: 30px;  /* Ajusta el tamaño según sea necesario */
+  height: auto;
+}
