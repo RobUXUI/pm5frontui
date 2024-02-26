@@ -1,7 +1,7 @@
 import { Route, Routes } from "react-router-dom"
 import Home from "../views/home/Home"
 import Products from "../views/products/Products"
-import Layout from "../components/layout/Layout"
+import Layout  from "../componentes/layout/layout"
 import Auth from "../views/auth/Auth"
 import Product from "../views/product/Product"
 import Checkout from "../views/checkout/Checkout"
